@@ -1,3 +1,4 @@
+/* Should return true if linked list is circular, else false */
 bool isCircular(struct Node *head){
     //code here
     if(head==NULL)
